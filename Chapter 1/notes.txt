@@ -1,0 +1,5 @@
+Not Accepted:
+ - 10443.py (programs returns the correct answer but gives TLE on UVA, the algorithm is efficient enough in my opinion).
+
+Skipped:
+ - 00195.py - Anagram (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=131) 
